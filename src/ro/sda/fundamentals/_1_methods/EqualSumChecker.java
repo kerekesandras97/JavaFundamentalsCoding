@@ -26,6 +26,7 @@ public class EqualSumChecker {
 
         boolean result2 = hasEqualSum(var1, var2, var3);
         System.out.println(result2);
+        System.out.println("Salut!");
     }
 
     public static boolean hasEqualSum(int a, int b, int result){

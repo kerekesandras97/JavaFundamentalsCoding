@@ -38,6 +38,8 @@ public class Main {
         System.out.println("c6 imaginary part is " + c6.getImaginary());
         System.out.println("c7 real part is " + c7.getReal());
         System.out.println("c7 imaginary part is " + c7.getImaginary());
+
+        System.out.println("Salut");
     }
 
 }

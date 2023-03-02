@@ -34,6 +34,8 @@ public class FactorPrinter {
         printFactors(10);
         System.out.println("--------");
         printFactors(-1);
+
+        System.out.println("Salut");
     }
 
     public static void printFactors(int number) {
